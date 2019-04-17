@@ -1,2 +1,3 @@
 # interactive-quiz
-Whats is your knowledge level? Simple quiz example.
+Whats is your level of coding? 
+Simple quiz example.
